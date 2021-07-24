@@ -1,6 +1,6 @@
 {
   "name": "react-animation-carousel",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "",
   "main": "lib/index.js",
   "types": "lib",
@@ -27,8 +27,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khanhviet/npm-publish.git"
+    "url": "git+https://github.com/khanhviet/react-animation-carousel"
   },
-  "homepage": "https://github.com/khanhviet/npm-publish.git#readme"
+  "homepage": "https://github.com/khanhviet/react-animation-carousel#readme"
 }
 

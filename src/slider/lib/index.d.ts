@@ -1,8 +1,8 @@
 /// <reference types="react" />
-import "./index.scss";
+import "./index.css";
 declare type SliderProps = {
-    listImg: Array<string>;
-    time?: number;
+  listImg: Array<string>;
+  time?: number;
 };
 export default function Slider(props: SliderProps): JSX.Element;
 export {};

@@ -1,5 +1,5 @@
 import './App.css';
-import Slider from './Slider'
+import Slider from 'react-animation-carousel'
 import img1 from "./img/image.png";
 import img2 from "./img/img2.png";
 const data = [
