@@ -1,0 +1,34 @@
+{
+  "name": "react-animation-carousel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "author": "LE KHANH VIET",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.11",
+    "node-sass": "^6.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "typescript": "^4.3.4"
+  },
+  "keywords": [
+    "react move item carousel",
+    "react animation carousel",
+    "react move left item carousel"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhviet/npm-publish.git"
+  },
+  "homepage": "https://github.com/khanhviet/npm-publish.git#readme"
+}
+
