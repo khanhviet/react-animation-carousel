@@ -1,17 +1,10 @@
-# react-like-posts-fb
+# react-animation-carousel
 
-An image library that's used to show the images, video in beautiful grids.
-Below you will find some information on how to perform common tasks.
+move images animations in carousel
 
-![Screenshot](https://github.com/khanhviet/react-like-posts-fb/blob/master/react-like-posts-fb.gif?raw=true)
+![Screenshot](https://github.com/khanhviet/react-animation-carousel/blob/master/preview.gif?raw=true)
 
-# Vesions v1.3.1
-
-- Fixed key warning.
-
-## Features
-
-- Display videos and photos on a beautiful screen
+# Vesions v1.0.4
 
 ## Installation
 
@@ -22,21 +15,30 @@ Install the dependencies and devDependencies and start the server.
 Run the following
 
 ```sh
-npm install react-like-posts-fb
+npm install react-animation-carousel
 ```
 
 or
 
 ```sh
-yarn add react-like-posts-fb
+yarn add react-animation-carousel
 ```
 
 # Basic Usage
 
 ```sh
-import FbImageOrVideoLibrary from 'react-like-posts-fb'
+import ReactAnimationCarousel from 'react-animation-carousel'
+const data = [
+  img1,
+  img2,
+  img3,
+  img4,
+  img5,
+  img6,
+];
 
-<FbImageOrVideoLibrary imagesOrVideos={[]}/>
+<ReactAnimationCarousel time={20} listImg={data} />
+
 ```
 
 ## Plugins
