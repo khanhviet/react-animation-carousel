@@ -54,7 +54,7 @@ MIT
 
 ## Country
 ![Screenshot](https://github.com/khanhviet/react-animation-carousel/blob/master/VietNam.svg?raw=true)
-<p>----- VIETNAM -----</p>
+<p>------------- VIETNAM -------------</p>
 
 ## Author
 
