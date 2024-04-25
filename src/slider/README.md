@@ -53,11 +53,11 @@ const data = [
 MIT
 
 ## Country
-![Screenshot](https://github.com/khanhviet/react-like-posts-fb/blob/master/VietNam.svg?raw=true)
+![Screenshot](https://github.com/khanhviet/react-animation-carousel/blob/master/VietNam.svg?raw=true)
 <p>----- VIETNAM -----</p>
 
 ## Author
 
-LE KHANH VIET ![Screenshot](https://github.com/khanhviet/react-like-posts-fb/blob/master/heart.png?raw=true) ...
+LE KHANH VIET ![Screenshot](https://github.com/khanhviet/react-animation-carousel/blob/master/heart.png?raw=true) ...
 
 **Software, hello guys!**
